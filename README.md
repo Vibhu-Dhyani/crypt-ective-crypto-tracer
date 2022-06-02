@@ -1,70 +1,74 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Crypt - Ective
 
-## Available Scripts
+This is a web-app which will help you in tracking all the info you need to know about your favourite crypto
 
-In the project directory, you can run:
+->  React.js
 
-### `npm start`
+->  Firebase
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+->  SignUp/Login with google
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+->  Interactive & Responsive UI
 
-### `npm test`
+->  Integration of Graphs & Charts for a clear perpective . 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+->  "Favourites Crypto Space" for full and comparative insight. 
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow the link for live app : [Crypt-Ective](https://fantastic-gaufre-ebc6e5.netlify.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+![Home Page (Before Login)](/src/Resources/ScreenShots/Screenshot_select-area_20220603025111.png)
+![Table With Pagination](/src/Resources/ScreenShots/Screenshot_select-area_20220603025136.png)
+![Login (with google)](/src/Resources/ScreenShots/Screenshot_select-area_20220603025222.png)
+![SignUp (with google)](/src/Resources/Screenshot_select-area_20220603025243.png)
+![Home Page (After Login)](/src/Resources/Screenshot_select-area_20220603025600.png)
+![Coin Info](/src/Resources/Screenshot_select-area_20220603025640.png)
+![Coin Info](/src/Resources/Screenshot_select-area_20220603025652.png)
+![Favourite Coins Page](/src/Resources/Screenshot_select-area_20220603030418.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployment
 
-## Learn More
+To deploy this project run
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## API Reference
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Check out the link :->
 
-### Analyzing the Bundle Size
+- [CoinGecko.com](https://www.coingecko.com/en/api/documentation)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Color Reference
 
-### Deployment
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Black | ![#0B0C10](https://via.placeholder.com/10/0a192f?text=+) #0B0C10 |
+| Blue | ![#1F2833](https://via.placeholder.com/10/f8f8f8?text=+) #1F2833 |
+| Gray | ![#C5C6C7](https://via.placeholder.com/10/00b48a?text=+) #C5C6C7 |
+| Neon | ![#66fcf1](https://via.placeholder.com/10/00b48a?text=+) #66fcf1 |
+| SeaBue | ![#45a29e](https://via.placeholder.com/10/00b48a?text=+) #45a29e |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## 🚀 About Me
+I'm a full stack developer...(MERN)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+- [@Vibhu-Dhyani](https://www.github.com/Vibhu-Dhyani)
+
