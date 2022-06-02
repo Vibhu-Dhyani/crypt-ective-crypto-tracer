@@ -29,7 +29,7 @@ Follow the link for live app : [Crypt-Ective](https://fantastic-gaufre-ebc6e5.ne
 ![Home Page (After Login)](/src/Resources/ScreenShots/Screenshot_select-area_20220603025600.png)
 ![Coin Info](/src/Resources/ScreenShots/Screenshot_select-area_20220603025640.png)
 ![Coin Info](/src/Resources/ScreenShots/Screenshot_select-area_20220603025652.png)
-![Favourite Coins Page](/src/ScreenShots/Resources/Screenshot_select-area_20220603030418.png)
+![Favourite Coins Page](/src/Resources/ScreenShots/Screenshot_select-area_20220603030418.png)
 
 
 
